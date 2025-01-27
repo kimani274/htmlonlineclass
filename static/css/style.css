@@ -1,0 +1,25 @@
+h2{
+    color: aquamarine;
+    text-align: center;
+    font-family: "Arial Narrow";
+    font-size: 35px;
+}
+
+
+table{
+    width:100%;
+    border-collapse:collapse ;
+
+}
+td,th{
+    color: blueviolet;
+    border:2px solid;
+    padding: 10px;
+}
+
+p{
+    color: darkgreen;
+    font-family: "Dubai Medium";
+    font-size: 35px;
+
+}

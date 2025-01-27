@@ -1,0 +1,15 @@
+ul{
+    list-style: none;
+    overflow: hidden;
+    background-color: limegreen;
+}
+li{
+    float: left;
+}
+li,a{
+    color: white;
+    display: block;
+    padding:10px;
+    text-decoration: none;
+    font-family: "Arial Narrow;
+}

@@ -1,0 +1,22 @@
+.container{
+    padding:20px;
+    background-color: deepskyblue;
+    max-width:800px;
+    border-radius:15px;
+    box-shadow:0 0 10px rgba(0,0,0.1);
+}
+.header{
+    text-align:left;
+    font-family: cursive;
+    color:lightcoral;
+}
+.content{
+    font-family: Algerian, ui-serif;
+    color: paleturquoise;
+    line-height:1.6;
+}
+#my_id{
+    text-align: center;
+    font-size: medium;
+    color: green;
+}
